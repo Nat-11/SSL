@@ -1,1 +1,7 @@
 geminigems.txt
+src/grSim_Commands.pb.cc
+src/grSim_Commands.pb.h
+src/grSim_Replacement.pb.cc
+src/grSim_Replacement.pb.h
+src/grSim_Packet.pb.h
+src/grSim_Packet.pb.cc
